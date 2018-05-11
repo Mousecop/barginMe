@@ -21,3 +21,6 @@ yarn-error.log*
 
 #Test Coverage
 /coverage
+
+# Snapshots
+/src/components/*/__snapshots__
